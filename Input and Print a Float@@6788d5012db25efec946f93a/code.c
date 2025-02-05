@@ -6,4 +6,5 @@ int main(){
     scanf("%d",&a);
 
     printf("Your Entered number: ",a);
+    return 0;
 }
