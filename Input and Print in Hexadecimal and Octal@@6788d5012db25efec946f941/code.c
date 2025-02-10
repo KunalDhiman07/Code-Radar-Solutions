@@ -2,9 +2,8 @@
 
 int main(){
     int a;
-    int b;
-    scanf("%d %d",&a,&b);
+    scanf("%d %d",&a);
     printf("Hexadecimal: %X\n",a);
-    printf("Octal: %o\n",b);
+    printf("Octal: %o\n",a);
     return 0;
 }
